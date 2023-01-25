@@ -1,3 +1,8 @@
+# CompanyDataOrganization for Dev
+
+開発者用のドキュメントです。
+環境構築の方法や各種TIPSを残していきます。
+
 ## startup
 
 ```bash
